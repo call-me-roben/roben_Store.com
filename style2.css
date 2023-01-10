@@ -1,0 +1,19 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth; 
+}
+
+#Global #gauche {
+    float:left;
+    width:60%;
+}
+#Global #droite {
+    margin-left:60%   
+}
+img{
+    height: 200px;
+    width: 400px;
+}
